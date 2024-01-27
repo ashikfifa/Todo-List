@@ -9,7 +9,7 @@ const App = () => {
     <>
       <header>
         <section className="title-section">
-          <h1>What Todo</h1>
+          <h1>Todo List</h1>
           <ToggleMode />
         </section>
       </header>
