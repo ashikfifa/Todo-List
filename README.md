@@ -1,6 +1,6 @@
 ### Live Demo
 
-[https://gorgeous-cannoli-13ef99.netlify.app/] CLICK HERE
+[https://gorgeous-cannoli-13ef99.netlify.app] (CLICK HERE)
 
 ### Available Scripts
 
